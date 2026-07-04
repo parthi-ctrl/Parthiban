@@ -154,7 +154,8 @@ print(me.motto())
 
 | 🎖️ | Achievement | Details |
 |---|---|---|
-| 📊 | Certification | Crio Fellowship in NextGen Data Analytics with AI |
+| 📊 | Certification | Crio Fellowship in NextGen Data Analytics with AI, Crio.Do |
+| 📊 | Certification | Deloitte Australia Data Analytics Job Simulation, Forage |
 | 🧹 | Data Cleaning at Scale | Cleaned & transformed ~4,000 sales records for accuracy and consistency |
 | 💬 | Large-Scale Text Analysis | Processed 190,000+ customer reviews for sentiment & pain-point discovery |
 | 💻 | Open Source Portfolio | 7 published data analytics projects across Power BI, Excel & Python |
