@@ -95,7 +95,7 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>AV and IT Support Engineer</b> — Puthur Infotech (Client: ANZ), Bengaluru</summary>
+<summary><b>AV and IT Support Engineer</b> — ANZ, Bengaluru</summary>
 <br>
 
 > `HR Analytics` `Dashboarding` `Asset Databases` `Reporting`
@@ -170,7 +170,7 @@ print(me.motto())
 
 | Degree | Institution | Location |
 |---|---|---|
-| Bachelor of Arts (Major in English) | Yadava College | Madurai |
+| Bachelor of Arts (Major in English) | MADURAI KAMARAJ UNIVERSITY  | Madurai |
 
 </div>
 
