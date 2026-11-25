@@ -95,29 +95,33 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>AV and IT Support Engineer</b> — ANZ, Bengaluru</summary>
+<summary><b>AV & IT Operations Analyst</b> — ANZ, Bengaluru</summary>
 <br>
 
 > `HR Analytics` `Dashboarding` `Asset Databases` `Reporting`
 
-- Performed end-to-end employee attrition analysis by cleaning HR data, building dashboards, and delivering actionable workforce-planning insights.
-- Managed enterprise IT and AV asset databases, ensuring accurate lifecycle tracking and data integrity.
-- Created operational reports to monitor system performance and support resource planning.
-- Collaborated with technical teams to troubleshoot infrastructure issues and document solutions; tracked service delivery metrics to maintain efficient IT operations.
-
+•	Performed data analysis on 5,000+ HR records by cleaning and transforming data using Excel and Power BI; developed dashboards to support workforce planning and reporting.
+•	Managed enterprise IT and AV asset data covering 10,000+ assets, maintaining 99.5% data accuracy through regular audits and lifecycle tracking.
+•	Built 8+ operational dashboards and KPI trackers using Excel and Power BI, reducing manual reporting effort by approximately 15 hours per week.
+•	Analyzed infrastructure incidents across 50+ services to identify recurring issues and operational trends, contributing to a 28% improvement in IT response time.
+•	Monitored service delivery KPIs including uptime, incident resolution time, and asset utilization through automated reporting, supporting a 12% improvement in operational efficiency.
+•	Collaborated with internal stakeholders to prepare reports, track operational metrics, and communicate data-driven findings.
+Tools used: Power BI, Excel, Power Query, DAX, SQL, Data Analysis, ITSM
 </details>
 
 <details>
-<summary><b>IT Support Engineer & Operations Specialist</b> — SII Group India, Bengaluru</summary>
+<summary><b>IT Support Engineer & Operations Analyst</b> — SII Group India, Bengaluru</summary>
 <br>
 
 > `SLA Monitoring` `Trend Analysis` `Audit & Compliance` `Process Improvement`
 
-- Analysed service desk ticket data to monitor SLA compliance and support performance.
-- Identified incident trends and recommended process improvements to enhance operational efficiency.
-- Supported audit and compliance activities through data validation, log analysis, and documentation management.
-- Collaborated with stakeholders to implement operational improvements and streamline processes.
-
+•	Analyzed 8,000+ service desk tickets monthly to monitor SLA performance and identify 15+ operational bottlenecks, contributing to a 22% improvement in on-time resolution.
+•	Analyzed trends across 2,000+ monthly incidents and identified recurring patterns that supported root-cause improvements and reduced average resolution time by 3.5 hours.
+•	Validated 50,000+ records during audit and compliance activities, performed data and log analysis, and maintained accurate audit trails.
+•	Streamlined compliance reporting processes, reducing manual reporting effort by approximately 60%.
+•	Worked with 8+ cross-functional teams on operational improvement initiatives and supported the implementation of 3 process standardizations affecting 200+ employees.
+•	Prepared operational reports and performance metrics to support management review and decision-making.
+Tools used: Excel, SQL, Power BI, MS Office, Data Analysis, Reporting, ITSM
 </details>
 
 ---
