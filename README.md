@@ -100,13 +100,13 @@ print(me.motto())
 
 > `HR Analytics` `Dashboarding` `Asset Databases` `Reporting`
 
-•	Performed data analysis on 5,000+ HR records by cleaning and transforming data using Excel and Power BI; developed dashboards to support workforce planning and reporting.
-•	Managed enterprise IT and AV asset data covering 10,000+ assets, maintaining 99.5% data accuracy through regular audits and lifecycle tracking.
-•	Built 8+ operational dashboards and KPI trackers using Excel and Power BI, reducing manual reporting effort by approximately 15 hours per week.
-•	Analyzed infrastructure incidents across 50+ services to identify recurring issues and operational trends, contributing to a 28% improvement in IT response time.
-•	Monitored service delivery KPIs including uptime, incident resolution time, and asset utilization through automated reporting, supporting a 12% improvement in operational efficiency.
-•	Collaborated with internal stakeholders to prepare reports, track operational metrics, and communicate data-driven findings.
-Tools used: Power BI, Excel, Power Query, DAX, SQL, Data Analysis, ITSM
+- Performed data analysis on 5,000+ HR records by cleaning and transforming data using Excel and Power BI; developed dashboards to support workforce planning and reporting.
+-Managed enterprise IT and AV asset data covering 10,000+ assets, maintaining 99.5% data accuracy through regular audits and lifecycle tracking.
+-Built 8+ operational dashboards and KPI trackers using Excel and Power BI, reducing manual reporting effort by approximately 15 hours per week.
+-Analyzed infrastructure incidents across 50+ services to identify recurring issues and operational trends, contributing to a 28% improvement in IT response time.
+-Monitored service delivery KPIs including uptime, incident resolution time, and asset utilization through automated reporting, supporting a 12% improvement in operational efficiency.
+-Collaborated with internal stakeholders to prepare reports, track operational metrics, and communicate data-driven findings.
+-Tools used: Power BI, Excel, Power Query, DAX, SQL, Data Analysis, ITSM
 </details>
 
 <details>
@@ -115,13 +115,13 @@ Tools used: Power BI, Excel, Power Query, DAX, SQL, Data Analysis, ITSM
 
 > `SLA Monitoring` `Trend Analysis` `Audit & Compliance` `Process Improvement`
 
-•	Analyzed 8,000+ service desk tickets monthly to monitor SLA performance and identify 15+ operational bottlenecks, contributing to a 22% improvement in on-time resolution.
-•	Analyzed trends across 2,000+ monthly incidents and identified recurring patterns that supported root-cause improvements and reduced average resolution time by 3.5 hours.
-•	Validated 50,000+ records during audit and compliance activities, performed data and log analysis, and maintained accurate audit trails.
-•	Streamlined compliance reporting processes, reducing manual reporting effort by approximately 60%.
-•	Worked with 8+ cross-functional teams on operational improvement initiatives and supported the implementation of 3 process standardizations affecting 200+ employees.
-•	Prepared operational reports and performance metrics to support management review and decision-making.
-Tools used: Excel, SQL, Power BI, MS Office, Data Analysis, Reporting, ITSM
+-Analyzed 8,000+ service desk tickets monthly to monitor SLA performance and identify 15+ operational bottlenecks, contributing to a 22% improvement in on-time resolution.
+-Analyzed trends across 2,000+ monthly incidents and identified recurring patterns that supported root-cause improvements and reduced average resolution time by 3.5 hours.
+-Validated 50,000+ records during audit and compliance activities, performed data and log analysis, and maintained accurate audit trails.
+-Streamlined compliance reporting processes, reducing manual reporting effort by approximately 60%.
+-Worked with 8+ cross-functional teams on operational improvement initiatives and supported the implementation of 3 process standardizations affecting 200+ employees.
+-Prepared operational reports and performance metrics to support management review and decision-making.
+-Tools used: Excel, SQL, Power BI, MS Office, Data Analysis, Reporting, ITSM
 </details>
 
 ---
