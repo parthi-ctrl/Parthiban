@@ -194,7 +194,7 @@ Tools used: Excel, SQL, Power BI, MS Office, Data Analysis, Reporting, ITSM
 
 <p align="center">
   📫 <b>tparthi2807@gmail.com</b> &nbsp;|&nbsp; 📍 Bengaluru, India &nbsp;|&nbsp;
-  <a href="https://github.com/parthi-ctrl">GitHub</a>
+  <a href="https://github.com/parthi-ctrl">GitHub</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/parthiban96">GitHub</a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=20,12,3&height=120&section=footer&animation=fadeIn" width="100%"/>
